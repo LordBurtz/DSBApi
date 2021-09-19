@@ -1,3 +1,5 @@
+# A fork add OCR |  this is archived
+
 # DSBApi
 
 > Eine API für die DSBMobile Vertretungsplan-Lösung, welche viele Schulen benutzen.
