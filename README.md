@@ -1,4 +1,4 @@
-# A fork add OCR |  this is archived
+# A fork adding OCR |  this is archived
 
 # DSBApi
 
